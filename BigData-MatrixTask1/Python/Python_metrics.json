@@ -1,0 +1,38 @@
+[
+    {
+        "size": 10,
+        "execution_time": 0.0,
+        "memory_usage": 0.00390625,
+        "cpu_usage": 0.0
+    },
+    {
+        "size": 25,
+        "execution_time": 0.0019998550415039062,
+        "memory_usage": 0.01171875,
+        "cpu_usage": 0.0
+    },
+    {
+        "size": 50,
+        "execution_time": 0.014009237289428711,
+        "memory_usage": 0.0,
+        "cpu_usage": 68.9
+    },
+    {
+        "size": 75,
+        "execution_time": 0.03599858283996582,
+        "memory_usage": 0.0,
+        "cpu_usage": 12.5
+    },
+    {
+        "size": 100,
+        "execution_time": 0.08599972724914551,
+        "memory_usage": 0.0,
+        "cpu_usage": 15.4
+    },
+    {
+        "size": 250,
+        "execution_time": 1.437000036239624,
+        "memory_usage": 0.99609375,
+        "cpu_usage": -0.10000000000000142
+    }
+]
