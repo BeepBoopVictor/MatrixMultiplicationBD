@@ -1,0 +1,17 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,com/example/benchmark/ParallelMainMatrixBenchmark.setup
+inline,com/example/benchmark/ParallelMainMatrixBenchmark.testBlock
+inline,com/example/benchmark/ParallelMainMatrixBenchmark.testNaive
+inline,com/example/benchmark/ParallelMainMatrixBenchmark.testStrassen
+inline,com/example/benchmark/mainMatrixBenchmark.setup
+inline,com/example/benchmark/mainMatrixBenchmark.testBlock
+inline,com/example/benchmark/mainMatrixBenchmark.testNaive
+inline,com/example/benchmark/mainMatrixBenchmark.testStrassen
+inline,com/example/benchmark/mainSparseBenchmark.setup
+inline,com/example/benchmark/mainSparseBenchmark.testBlock
+inline,com/example/benchmark/mainSparseBenchmark.testNaive
+inline,com/example/benchmark/mainSparseBenchmark.testStrassen
